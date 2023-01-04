@@ -11,4 +11,8 @@ Throwing in a few different charge configurations and two different numerical so
 
 The `.ipynb` file is too large to display in github (55 MB - mostly due to large animations), so I'll link a colab [here](https://drive.google.com/file/d/1PSdzmw8XdQVFKSWe4k2Q_87mc_EmFD6G/view?usp=sharing) for convenient viewing.
 
+As a (low resolution) taste, here's one of the final animations I produced, a potential field produced by successive-over-relaxation between two plates of charge:
+
+![](https://github.com/dcneese/numerical-laplace/blob/main/sor_animation.gif)
+
 This project is licensed under the MIT license.
