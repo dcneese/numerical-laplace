@@ -9,7 +9,7 @@ It had a few motives:
 
 Throwing in a few different charge configurations and two different numerical solvers, I create some demos to show what the fields 'look' like and how the solvers find them from boundary conditions.
 
-The `.ipynb` file is too large to display in github (32 MB - mostly due to one large animation), so I'll link a colab [here](https://drive.google.com/file/d/1WNQRlDJrTfTxqvc20iZcKVDdVsxaxuhV/view?usp=sharing) for convenient viewing.
+The `.ipynb` file is too large to display in github (32 MB - mostly due to a few large animations), so I'll link a colab [here](https://drive.google.com/file/d/1WNQRlDJrTfTxqvc20iZcKVDdVsxaxuhV/view?usp=sharing) for convenient viewing.
 
 As a (low resolution) taste, here's one of the final animations I produced, a potential field produced by successive-over-relaxation between two plates of charge:
 
